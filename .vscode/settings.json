@@ -1,0 +1,28 @@
+{
+    "cSpell.ignorePaths": [
+        "package-lock.json",
+        "node_modules",
+        "vscode-extension",
+        ".git/objects",
+        ".vscode",
+        ".vscode-insiders"
+        
+    ],
+    "cSpell.ignoreWords": [
+        "empregado"
+    ],
+    "cSpell.words": [
+        "calcular",
+        "Conta",
+        "endereco",
+        "fornecedor",
+        "limite",
+        "meses",
+        "numero",
+        "Pessoa",
+        "salario",
+        "Salario",
+        "saldo",
+        "Trabalhados"
+    ]
+}
